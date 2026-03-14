@@ -18,11 +18,16 @@
 - 📱 **App Development using Kotlin**
 
 ---
+## 💡 Featured Projects
 
-## 💡 Past Projects
-- 📘 **Interactive Dictionary App** – React + Tailwind CSS + Free Dictionary API  
-- ☁️ **Weather App** – React + OpenWeather API + Dynamic Backgrounds  
-- 🌟 Portfolio Website, QR Code Generator, and more 
+* 🔎 **NetScan – Network Vulnerability Exposure Scanner**
+  Lightweight asynchronous scanner built with **Python + FastAPI** for TCP port discovery, service detection, HTTP header auditing, TLS inspection, and banner-based CVE analysis.
+
+* 🧩 **Cyber Escape Room Platform**
+  Interactive **React + Tailwind CSS + TypeScript** web application featuring a **6-round progressive puzzle system**, used in a cybersecurity event with **400+ participants**.
+
+* 🤖 **MuseumPass Chatbot Backend**
+  **FastAPI-based intelligent chatbot** using rule-based intent detection, semantic similarity (**SentenceTransformers**), and zero-shot classification for museum discovery and ticket assistance.
 
 ---
 
@@ -61,4 +66,4 @@
 
 ---
 
-💡 *"Code, Learn, Repeat — and never stop building!"*
+💡 *"Code, Learn, Repeat and never stop building!"*
